@@ -1,1 +1,1 @@
-# -Dynamic-Modeling-and-Control-of-a-Multi-Prismatic-Robotic-System
+# Dynamic-Modeling-and-Control-of-a-Multi-Prismatic-Robotic-System
