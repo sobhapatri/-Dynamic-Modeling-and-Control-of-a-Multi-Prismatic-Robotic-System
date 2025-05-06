@@ -1,6 +1,6 @@
 # 🤖 Dynamic Modeling and Control of a Multi-Prismatic Robotic System
 
-This project explores the dynamic modeling and control strategies of a robotic arm with multiple prismatic joints. Developed as part of the *MAE 547: Modeling and Control of Robots* course at ASU, it includes simulation, analytical derivation of dynamics, indirect force control, and a Graphical User Interface (GUI) to visualize and interact with the system in real-time.
+This project explores the dynamic modeling and control strategies of a robotic arm with multiple prismatic joints. It includes simulation, analytical derivation of dynamics, indirect force control, and a Graphical User Interface (GUI) to visualize and interact with the system in real-time.
 
 ---
 
