@@ -62,3 +62,10 @@ This project explores the dynamic modeling and control strategies of a robotic a
 - Built a robust framework for modeling and testing n-DOF robotic manipulators
 
 ---
+
+## 📎 Code Access
+
+> 🔗 **[Analytical Derivation & Simulation Code](https://drive.google.com/file/d/1XL_d-cU3z-H4XpKa_goEgYigedBOhTpz/view?usp=drive_link)**  
+> 🔗 **[Compliance Control](https://drive.google.com/file/d/1ZkEsnx8qCC9j1HOhiAIyoqV-R6KIYcOt/view?usp=drive_link)**  
+> 🔗 **[Impedance Control](https://drive.google.com/file/d/19BD7_hoRlDsmyD5pMjoVAlRe_R8pqm92/view?usp=drive_link)**  
+> 🔗 **[MATLAB GUI Code](https://drive.google.com/file/d/1H-bbEi9oxoWtuYU4oSaoh9IfttXGc67b/view?usp=drive_link)**
